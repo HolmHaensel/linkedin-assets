@@ -1,0 +1,6 @@
+{"label":"Case 02 · Premium automotive e-commerce","slides":[
+{"type":"hook","title":"Shoot once. Use everywhere.","sub":"How we made product imaging at least 50% cheaper."},
+{"type":"text","paras":["Every product image had to work on web and on mobile, in landscape and in portrait.","Older shots often had too little background to crop well for both."],"kicker":"So we asked","title":"Why prepare every image by hand?"},
+{"type":"list","title":"What we changed","items":["One shoot per product in a flexible frame, wide and portrait.","AI crops each image and delivers it straight into the shop backend.","Older images with too little background get extended by AI."],"punch":"Perfect on web and mobile, without a reshoot."},
+{"type":"stat","number":"-50%","caption":"imaging workflow cost, at least","lesson":"The cheapest workflow step is the one you only do once.","sign":"I design products that cannot afford to fail.","cue":"Follow for more"}
+]}
