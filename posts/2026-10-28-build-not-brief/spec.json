@@ -1,0 +1,3 @@
+{"label":"AI Product Management","slides":[
+{"type":"html","bg":"black","sign":"I design products that cannot afford to fail.","html":"<div style=\"display:flex;flex-direction:column;gap:44px\"><div class=\"h1\" style=\"color:var(--w)\">Build.<br><span style=\"color:var(--y)\">Don't just brief.</span></div><div class=\"box\" style=\"border:3px solid var(--w);color:var(--w)\"><div class=\"lab\" style=\"margin-bottom:18px;opacity:.7\">A brief</div><div class=\"p\">invites agreement.</div></div><div class=\"box\" style=\"background:var(--y);color:var(--k)\"><div class=\"lab\" style=\"margin-bottom:18px\">A build</div><div class=\"p\">invites the right objections, early.</div></div></div>"}
+]}

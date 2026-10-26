@@ -7,3 +7,4 @@ Datum | Thema | Format | Hook
 2026-10-24 | Lektion Robotik-Think-Tank: Vertrauen vor Specs (Mensch-Roboter-Kollaboration) | Einzelbild | split | A robot on a construction site is a trust problem before it is a technical one.
 2026-10-26 | Trust by design: KI-Vertrauen in Finanzprodukten (HedgePilot, nachvollziehbare Entscheidungen) | Einzelbild | quote | In regulated products, trust is not a feeling. It is a design decision.
 2026-10-27 | Case 03: Zugang für Märkte ohne garantierte Lieferung (Mail-Forwarding, 5 Länder) | Carousel | split, text, versus, stat | Your customers exist. Your shop can't reach them.
+2026-10-28 | Build, don't just brief: KI-Produkte bauen statt nur beschreiben (HedgePilot, AI-PM-Programm) | Einzelbild | html (brief vs build) | A slide deck has never failed a compliance review. A working prototype can.
