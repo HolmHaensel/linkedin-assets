@@ -10,3 +10,4 @@ Datum | Thema | Format | Hook
 2026-10-28 | Build, don't just brief: KI-Produkte bauen statt nur beschreiben (HedgePilot, AI-PM-Programm) | Einzelbild | html (brief vs build) | A slide deck has never failed a compliance review. A working prototype can.
 2026-11-02 | Trust by design: Zweifel vor der Zusage entfernen (Car Selector -40% Retouren, Transfer Banking/Health) | Einzelbild | number | Most trust problems show up after the purchase. They are created before it.
 2026-11-02 | HealthBioCare in the making: ein Bericht, fuenf Zielgruppen, KI entwirft, Fachperson gibt frei | Einzelbild | custom HBC-Farben (Lavendel, Bluttropfen) | A few drops of dried blood can show what you could change today.
+2026-10-29 | Framework: Stakeholder ohne Linienverantwortung ausrichten (100+ Maerkte, Value-Proposition-Framework) - kein Metricool-Entwurf, keine freien Tage | Carousel | hook, list, versus, quote, cta | Alignment beats authority.
