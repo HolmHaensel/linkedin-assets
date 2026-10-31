@@ -12,3 +12,4 @@ Datum | Thema | Format | Hook
 2026-11-02 | HealthBioCare in the making: ein Bericht, fuenf Zielgruppen, KI entwirft, Fachperson gibt frei | Einzelbild | custom HBC-Farben (Lavendel, Bluttropfen) | A few drops of dried blood can show what you could change today.
 2026-10-29 | Framework: Stakeholder ohne Linienverantwortung ausrichten (100+ Maerkte, Value-Proposition-Framework) - kein Metricool-Entwurf, keine freien Tage | Carousel | hook, list, versus, quote, cta | Alignment beats authority.
 2026-10-30 | Lektion aus der Lehre: Entscheidungen erklaerbar machen (Lancaster 2019-2023, regulierte Produkte) - kein Metricool-Entwurf, keine freien Tage | Einzelbild | hook | If you can't teach a decision, you probably can't defend it either.
+2026-11-03 | Case 04: Self-Serve-Konfigurator (lpa, komplexe B2B-Finanzprodukte fuer Privatkunden, compliant und skalierbar) | Carousel | split, text, list, quote, cta | Complex is not the same as exclusive.

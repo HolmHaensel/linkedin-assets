@@ -1,0 +1,7 @@
+{"label":"Case 04 · Self-serve finance","slides":[
+{"type":"split","title":"Complex is not the same as exclusive.","sub":"Case 04: A self-serve configurator that opened complex B2B finance products to retail clients."},
+{"type":"text","bg":"yellow","paras":["At lpa I did UX and product strategy for digital finance products, for banks like Deutsche Bank, UniCredit and Commerzbank.","Some of these products were built for professional B2B clients only. Retail clients had no way in."],"kicker":"The question","title":"Could a retail client configure it alone?"},
+{"type":"list","bg":"white","title":"What self-serve needs","items":["Show complexity one decision at a time, never all at once.","Build compliance into the flow, not into a final disclaimer.","Design for scale, so the next product needs no new tool."],"punch":"Self-serve is a strategy, not a screen."},
+{"type":"quote","bg":"yellow","text":"Complexity is design debt. Your customers should not have to pay it.","by":"Holm Hänsel"},
+{"type":"cta","kicker":"THE LESSON","title":"Compliant and simple are not opposites. Design them together.","sub":"In banking, health and energy, self-serve only works when compliance is part of the design.","sign":"I design products that cannot afford to fail.","cue":"Follow for more"}
+]}
