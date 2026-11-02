@@ -1,0 +1,45 @@
+{
+"label": "Framework · Discovery first",
+"slides": [
+{
+"type": "hook",
+"title": "Delivery is an expensive way to learn.",
+"sub": "Three questions I answer before a team starts building."
+},
+{
+"type": "versus",
+"bg": "black",
+"title": "Where does learning happen?",
+"left": "Delivery first",
+"right": "Discovery first",
+"before": "Start with the solution. Learn from returns, tickets and complaints.",
+"after": "Start with the cause. Learn before anyone writes a line of code.",
+"kicker": "The key move",
+"punch": "Agree on the problem before the plan."
+},
+{
+"type": "list",
+"bg": "white",
+"title": "Three questions first",
+"items": [
+"Where does the problem actually start?",
+"What has to be true for this to work?",
+"What is the cheapest way to find out?"
+],
+"punch": "No answers yet? Not ready to build."
+},
+{
+"type": "html",
+"bg": "yellow",
+"html": "<div class=\"lab\" style=\"margin-bottom:36px\">What the questions found</div><div class=\"box\" style=\"background:var(--k);color:var(--w);margin-bottom:28px\"><div class=\"big\" style=\"font-size:170px;color:var(--y)\">-40%</div><div class=\"p\" style=\"margin-top:20px\">Returns. Customers bought parts the shop never checked for fit.</div></div><div class=\"box\" style=\"background:var(--w);color:var(--k)\"><div class=\"big\" style=\"font-size:170px\">5</div><div class=\"p\" style=\"margin-top:20px\">Countries connected. Customers could not order because delivery was not guaranteed.</div></div>"
+},
+{
+"type": "cta",
+"kicker": "THE LESSON",
+"title": "Discovery is the cheapest part of the work.",
+"sub": "In banking, health and energy, a wrong assumption in production costs more than a sprint. It costs trust.",
+"sign": "I design products that cannot afford to fail.",
+"cue": "Follow for more"
+}
+]
+}
