@@ -67,7 +67,7 @@ def slide(s, i, n, circles):
         body += f'<div class="c" style="left:{540-r}px;top:{cy-r}px;width:{2*r}px;height:{2*r}px;background:{R};display:flex;align-items:center;justify-content:center"><span class="d" style="font-size:{s.get("wordsize",150)}px;color:{W};text-align:center">{e(s["word"])}</span></div>'
         body += f'<div class="a b" style="top:{cy+r+44}px;width:904px;font-size:42px">{rich(s["sub"])}</div>'
     arrow = "→" if i < n - 1 else ""
-    foot = f'<div class="f"><span><span style="font-family:Raleway;font-weight:900;font-size:30px;letter-spacing:.02em">Holm Hänsel</span><span style="font-weight:400;opacity:.8"> · Yoga Macht Stark</span></span><span style="font-size:44px;color:{hi}">{arrow}</span></div>'
+    foot = f'<div class="f"><span><span style="font-family:Raleway;font-weight:900;font-size:30px;letter-spacing:.02em">Holm Hänsel</span><span style="font-weight:400;opacity:.8"> · YOGA MACHT STARK</span></span><span style="font-size:44px;color:{hi}">{arrow}</span></div>'
     return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body><div class="s" style="background:{bg};color:{fg};--hi:{hi}">{deco}{body}{foot}</div></body></html>'
 
 out = pathlib.Path(sys.argv[2]); out.mkdir(parents=True, exist_ok=True)

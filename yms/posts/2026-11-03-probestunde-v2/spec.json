@@ -1,0 +1,16 @@
+{"style":"seite","slides":[
+{"type":"text","bg":"cream","eyebrow":"Business Yoga","size":96,"title":"Ein Obstkorb ist nett. **Bewegung braucht einen Termin.**","sub":"Wie ich mit Teams arbeite, und was das kostet."},
+{"type":"person","bg":"dark","eyebrow":"Wer dahintersteht","size":84,"title":"Ich bin **Holm.**","sub":"Ich unterrichte seit 2008 Yoga, seit 2010 auch in Unternehmen, zum Beispiel beim Gewandhaus Leipzig. Bei mir gibt es klare Praxis und keinen Kitsch."},
+{"type":"text","bg":"white","eyebrow":"Meine Sicht","size":84,"title":"Am Willen fehlt es selten.","sub":"Eher an einem festen Platz im Kalender und an jemandem, der sich kümmert. Diesen Teil übernehme ich gern."},
+{"type":"timeline","bg":"cream","eyebrow":"Der Ablauf","size":68,"title":"So lernen wir uns kennen","steps":[
+ {"head":"Kostenlose Probestunde","sub":"Ihr probiert es aus, unverbindlich."},
+ {"head":"Start innerhalb von 2 Wochen","sub":"Die Organisation übernehme ich."},
+ {"dots":8,"head":"8 Sessions in 8 Wochen","sub":"Je 60 Minuten, online oder vor Ort in Leipzig."},
+ {"head":"Danach entscheidet ihr","sub":"Keine Verlängerung, kein Abo."}]},
+{"type":"grid","bg":"cream","eyebrow":"Ehrlich gerechnet","size":68,"title":"Was es kostet","cols":8,"rows":8,"xlabel":"8 Sessions","ylabel":"Bis zu 8 Personen","big":"15 €","bigsub":"pro Person und Stunde","sub":"960 € netto für das Paket, der Wert gilt bei voller Gruppe. Mir ist wichtig, dass du das vorher weißt."},
+{"type":"cards","bg":"white","eyebrow":"Euer Nutzen","size":68,"title":"Was ihr davon habt","rows":[
+ {"benefit":"Du hast wenig Arbeit damit.","feature":"Termine und Ablauf liegen bei mir."},
+ {"benefit":"Niemand muss schon Yoga können.","feature":"Ich hole alle dort ab, wo sie stehen. Keine Erfahrung nötig."},
+ {"benefit":"Es passt zu eurem Arbeitstag.","feature":"Online oder vor Ort, abgestimmt auf dein Team."}]},
+{"type":"cta","bg":"dark","eyebrow":"Der nächste Schritt","size":84,"title":"Probiert es **einfach aus.**","sub":"Ich freue mich, dein Team kennenzulernen.","button":"Kostenlose Probestunde anfragen","url":"yogamachtstark.de/business-yoga"}
+]}

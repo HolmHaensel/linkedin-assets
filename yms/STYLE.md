@@ -10,6 +10,7 @@ Gilt ab 02.11.2026 und ersetzt "Der Kreis". Vorbild ist Holms GoHighLevel-Landin
 - Grafiken, wenn sie Inhalt klarer machen: Abläufe (`timeline`), Kosten (`grid`).
 
 ## Text
+- Die Marke heißt immer YOGA MACHT STARK, durchgehend in Großbuchstaben. Nie anders schreiben.
 - Schwerpunkt B2B: Business Yoga für HR, BGM und Geschäftsführung. Haupt-CTA: kostenlose Probestunde.
 - Persönlich, kompetent, freundlich, nicht reißerisch. Ich-Form. Benefit zuerst, Feature als Beleg, kein Fachjargon, nur Belegbares.
 - Die App ist noch nicht fertig: keine Funktionstests, Messungen, Re-Tests oder App-Funktionen bewerben.

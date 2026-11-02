@@ -7,3 +7,4 @@ Datum | Cluster | Thema | Format | Layout-Typen | Hook
 2026-11-03 | B2B/BGM | Yoga fürs Team: Ablauf und Kosten (ersetzt aushalten) | Carousel (7) | der-kreis: statement, timeline, grid, fb, close | Ein Obstkorb ist nett. Bewegung braucht einen Termin.
 2026-11-03 | B2B/BGM | Yoga fürs Team, Einzelbilder | Einzelbild Google Business, Pinterest | statement, timeline | Yoga fürs Team in Leipzig
 2026-11-03 | B2B/BGM | Yoga fürs Team, Style Seite (ersetzt team-termin) | Carousel (7), Einzelbilder Google Business und Pinterest | text, person, timeline, grid, cards, cta | Ein Obstkorb ist nett. Bewegung braucht einen Termin.
+2026-11-03 | B2B/BGM | Yoga fürs Team, Korrektur Markenschreibweise (ersetzt probestunde) | Carousel (7), Einzelbilder | wie probestunde | Ein Obstkorb ist nett. Bewegung braucht einen Termin.

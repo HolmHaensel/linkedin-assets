@@ -65,7 +65,7 @@ def slide(s, i, n):
 
 def page(bg, fg, body_c, inner, i, n):
     arrow = f'<span style="margin-left:auto;font-size:48px;color:{body_c}">→</span>' if i < n - 1 else ""
-    foot = f'<div class="f"><img src="{PHOTO}"><span style="color:{fg};font-weight:700">Holm Hänsel</span><span style="color:{body_c}">Yoga Macht Stark</span>{arrow}</div>'
+    foot = f'<div class="f"><img src="{PHOTO}"><span style="color:{fg};font-weight:700">Holm Hänsel</span><span style="color:{body_c}">YOGA MACHT STARK</span>{arrow}</div>'
     return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body><div class="s" style="background:{bg};color:{fg}">{inner}{foot}</div></body></html>'
 
 out = pathlib.Path(sys.argv[2]); out.mkdir(parents=True, exist_ok=True)
