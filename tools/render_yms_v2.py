@@ -4,7 +4,8 @@ from playwright.sync_api import sync_playwright
 # YMS "Der Kreis" style (v2). Usage: FONTDIR=tools/fonts-yms python3 tools/render_yms_v2.py spec.json outdir
 # Style rules: yms/STYLE.md. Circles use carousel coordinates (x across all slides), so they run over the swipe seam.
 L, W, R, K, M = "#f0f4f5", "#ffffff", "#e05252", "#2c3e50", "#607080"
-SW, SH = 1080, 1350
+spec = json.loads(pathlib.Path(sys.argv[1]).read_text())
+SW, SH = spec.get("canvas", [1080, 1350])
 FD = os.environ.get("FONTDIR", "tools/fonts-yms")
 def ff(name, f, w):
     b = base64.b64encode(open(f"{FD}/{f}", "rb").read()).decode()
@@ -52,7 +53,9 @@ def slide(s, i, n, circles):
                 rows += f'<div style="padding:26px 0;border-top:3px solid {K}"><div style="display:flex;justify-content:space-between;margin-bottom:22px">{dots}</div><div style="font-size:42px;font-weight:700;line-height:1.2;margin-bottom:6px">{e(r["head"])}</div><div style="font-size:36px;line-height:1.28;color:{M}">{e(r["sub"])}</div></div>'
             else:
                 rows += step(ring, r["head"], r["sub"])
-        body += f'<div class="a" style="top:{top}px;width:904px"><div class="d" style="font-size:{s.get("size",76)}px;margin-bottom:36px">{rich(s["title"])}</div>{rows}</div>'
+        body += f'<div class="a" style="top:{top}px;width:{s.get("w",904)}px"><div class="d" style="font-size:{s.get("size",76)}px;margin-bottom:36px">{rich(s["title"])}</div>{rows}</div>'
+    elif s["type"] == "html":
+        body += s["html"]
     elif s["type"] == "grid":
         c = "".join(f'<div style="width:58px;height:58px;border-radius:50%;background:{R}"></div>' for _ in range(s["cols"] * s["rows"]))
         grid = f'<div style="display:grid;grid-template-columns:repeat({s["cols"]},58px);gap:14px">{c}</div>'
@@ -67,7 +70,6 @@ def slide(s, i, n, circles):
     foot = f'<div class="f"><span><span style="font-family:Raleway;font-weight:900;font-size:30px;letter-spacing:.02em">Holm Hänsel</span><span style="font-weight:400;opacity:.8"> · Yoga Macht Stark</span></span><span style="font-size:44px;color:{hi}">{arrow}</span></div>'
     return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body><div class="s" style="background:{bg};color:{fg};--hi:{hi}">{deco}{body}{foot}</div></body></html>'
 
-spec = json.loads(pathlib.Path(sys.argv[1]).read_text())
 out = pathlib.Path(sys.argv[2]); out.mkdir(parents=True, exist_ok=True)
 with sync_playwright() as p:
     b = p.chromium.launch(); pg = b.new_page(viewport={"width": SW, "height": SH})

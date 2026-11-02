@@ -25,3 +25,8 @@ Bogen jedes Carousels (H-S-T-S-S auf dem Loop Erkennen, Wandeln, Wirken):
 - Ton: persönlich, kompetent, freundlich, nicht reißerisch. Ich-Form, Holm ist auf jeder Slide als Absender genannt, früh im Carousel stellt er sich vor.
 - Grafiken, wenn sie Inhalt klarer machen: Abläufe (`timeline`), Zahlen und Kosten (`grid`). Immer aus Kreisen aufgebaut.
 - Preise und Rechenwege offen zeigen. Förderung nur mit Bedingungen nennen, Heilversprechen nie.
+
+## Google Business und Pinterest
+Beide bekommen immer eine eigene Version mit genau einem Bild, nie das Carousel. Eigener Metricool-Entwurf je Netzwerk.
+- Google Business: 1200 x 900 (4:3), Typ `publication`, Text bis 1500 Zeichen, lokal formuliert, ohne Hashtags, voller Link.
+- Pinterest: 1000 x 1500 (2:3), Titel bis 100 Zeichen, Beschreibung bis 500 Zeichen, Suchbegriffe im Titel, alles Wichtige auf einem Bild, pinLink auf die passende Seite. Board 684547280800331892 (aus bestehenden Posts).
