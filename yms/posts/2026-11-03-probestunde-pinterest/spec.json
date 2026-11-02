@@ -1,0 +1,40 @@
+{
+ "style": "seite",
+ "canvas": [
+  1000,
+  1500
+ ],
+ "slides": [
+  {
+   "type": "timeline",
+   "bg": "cream",
+   "eyebrow": "Business Yoga",
+   "size": 60,
+   "title": "Yoga fürs Team: Ablauf und Kosten",
+   "steps": [
+    {
+     "head": "Kostenlose Probestunde",
+     "sub": "Ihr probiert es aus, unverbindlich."
+    },
+    {
+     "head": "Start innerhalb von 2 Wochen",
+     "sub": "Die Organisation übernehme ich."
+    },
+    {
+     "dots": 8,
+     "head": "8 Sessions in 8 Wochen",
+     "sub": "Je 60 Minuten, online oder vor Ort in Leipzig."
+    },
+    {
+     "head": "960 € netto für bis zu 8 Personen",
+     "sub": "Bei voller Gruppe 15 € pro Person und Stunde."
+    },
+    {
+     "head": "Danach entscheidet ihr",
+     "sub": "Keine Verlängerung, kein Abo."
+    }
+   ],
+   "gap": 24
+  }
+ ]
+}
