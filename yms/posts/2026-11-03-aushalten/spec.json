@@ -1,0 +1,110 @@
+{
+ "style": "der-kreis",
+ "circles": [
+  {
+   "x": 1080,
+   "y": 190,
+   "r": 300
+  },
+  {
+   "x": 2160,
+   "y": 1075,
+   "r": 160
+  },
+  {
+   "x": 3240,
+   "y": 210,
+   "r": 230
+  },
+  {
+   "x": 4320,
+   "y": 40,
+   "r": 150
+  }
+ ],
+ "slides": [
+  {
+   "type": "statement",
+   "bg": "light",
+   "top": 520,
+   "size": 112,
+   "title": "Du hältst alles aus. **Genau das ist das Problem.**"
+  },
+  {
+   "type": "statement",
+   "bg": "white",
+   "top": 540,
+   "size": 88,
+   "title": "21 Uhr. Laptop noch offen.",
+   "sub": "Den Absatz liest du zum vierten Mal. Von außen läuft alles. Innen fährst du auf Reserve.",
+   "subw": 700
+  },
+  {
+   "type": "statement",
+   "bg": "dark",
+   "top": 380,
+   "size": 96,
+   "kickerTop": 100,
+   "kicker": "Erkennen",
+   "title": "Aushalten trainiert nur eins: **weiter aushalten.**",
+   "sub": "Das ist nicht deine Schwäche. Das ist dein Trainingsplan.",
+   "subw": 640
+  },
+  {
+   "type": "scene",
+   "bg": "light",
+   "top": 530,
+   "kickerTop": 470,
+   "size": 62,
+   "kicker": "Wandeln",
+   "lines": [
+    "Füße fest auf der Matte.",
+    "Die Beine zittern.",
+    "Der Atem wird laut.",
+    "Das Handy liegt im Flur."
+   ],
+   "sub": "Hier gibt es nichts auszuhalten. Hier baust du etwas auf."
+  },
+  {
+   "type": "fb",
+   "bg": "white",
+   "top": 210,
+   "title": "Kein Gefühl. **Ein System.**",
+   "rows": [
+    {
+     "stage": "Erkennen",
+     "feature": "Funktionstests: Griffkraft, Einbeinstand, Aufstehtest.",
+     "benefit": "Du weißt, wo du stehst. Nicht nur, wie du dich fühlst."
+    },
+    {
+     "stage": "Wandeln",
+     "feature": "1:1 Training: Kraft, Balance, Regeneration.",
+     "benefit": "Du trainierst, was dein Alltag wirklich verlangt."
+    },
+    {
+     "stage": "Wirken",
+     "feature": "Re-Test statt Bauchgefühl.",
+     "benefit": "Du siehst Fortschritt, statt auf ihn zu hoffen."
+    }
+   ]
+  },
+  {
+   "type": "statement",
+   "bg": "coral",
+   "top": 300,
+   "size": 92,
+   "kickerTop": 100,
+   "kicker": "Haltung statt Hoffnung",
+   "title": "Stark bist du nicht, weil du alles aushältst. **Stark bist du, wenn du weißt, wofür.**"
+  },
+  {
+   "type": "close",
+   "bg": "dark",
+   "title": "Wo hältst du gerade nur noch aus?",
+   "word": "Raus",
+   "cy": 640,
+   "r": 290,
+   "sub": "Kommentiere „RAUS“ und wir sprechen persönlich. 1:1, diskret, in deinem Takt."
+  }
+ ]
+}

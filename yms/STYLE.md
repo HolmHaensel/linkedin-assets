@@ -1,0 +1,21 @@
+# YMS Post-Style "Der Kreis" (v2)
+
+Renderer: `tools/render_yms_v2.py`. Beispiel: `yms/posts/2026-11-03-aushalten/`.
+
+## Narrativ
+Gegner: Durchhalte-Kult und Wellness-Watte. These: Aushalten ist kein Training. Stärke baut man auf, misst sie und weiß, wofür man sie braucht.
+Bogen jedes Carousels (H-S-T-S-S auf dem Loop Erkennen, Wandeln, Wirken):
+1. Hook: Ideen-Kollision in zwei Sätzen, zweiter Satz in Koralle
+2. Stakes: konkrete Alltagsszene
+3. Turn: Satz, der das alte Muster kippt
+4. Scene: kurze Sinnes-Sätze
+5. Features und Benefits: je Zeile was du bekommst, darunter was es dir bringt
+6. Shatter: neue Definition von Stärke
+7. Close: echte Frage plus Kreis mit Keyword
+
+## Visuell
+- Kreis in Koralle #e05252 ist das Signal. Er läuft über die Swipe-Kante und ist erst auf der letzten Slide ganz: dort steht das Keyword darin.
+- Flächen: #f0f4f5, #ffffff, #2c3e50, eine Slide voll Koralle. Teal #4db8b0 nur auf Web und in Sekundärelementen.
+- Raleway 900 in Großbuchstaben, sehr groß, linksbündig. Lato für Text, mindestens 38 px. Ein Highlight pro Headline.
+- Kein Kasten, keine Schatten, keine Verläufe. Trennlinien statt Karten.
+- Fotos: nur echte Aufnahmen von Holm, Kreis als Maske. Keine Stock-Bilder.
