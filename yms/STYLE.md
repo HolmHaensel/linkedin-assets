@@ -1,4 +1,8 @@
-# YMS Post-Style "Seite" (v3)
+# YMS Post-Style "Höhenlinien" (v4)
+
+Gilt ab 02.11.2026. Bilder entstehen als Claude-Design-Canvas (`.dc.html` je Post-Ordner) und werden mit `tools/export_yms_design.py` als Bild exportiert. Eigene Illustrationen als flache Vektorformen, feine Höhenlinien als Motiv, sehr große Raleway 900 mit bewussten Zeilenumbrüchen. Farben und Textregeln wie unten.
+
+## Basis: Style "Seite" (v3)
 
 Gilt ab 02.11.2026 und ersetzt "Der Kreis". Vorbild ist Holms GoHighLevel-Landingpage. Renderer: `tools/render_yms_v3.py`. Beispiel: `yms/posts/2026-11-03-probestunde/`.
 

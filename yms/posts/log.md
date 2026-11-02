@@ -9,3 +9,4 @@ Datum | Cluster | Thema | Format | Layout-Typen | Hook
 2026-11-03 | B2B/BGM | Yoga fürs Team, Style Seite (ersetzt team-termin) | Carousel (7), Einzelbilder Google Business und Pinterest | text, person, timeline, grid, cards, cta | Ein Obstkorb ist nett. Bewegung braucht einen Termin.
 2026-11-03 | B2B/BGM | Yoga fürs Team, Korrektur Markenschreibweise (ersetzt probestunde) | Carousel (7), Einzelbilder | wie probestunde | Ein Obstkorb ist nett. Bewegung braucht einen Termin.
 2026-11-03 | B2B/BGM | Yoga fürs Team, Hook geändert | Carousel (7) | wie probestunde-v2 | Ein Obstkorb ist nett. Firmengesundheit braucht einen Termin.
+2026-11-03 | B2B/BGM | Yoga fürs Team, Claude-Design-Version mit Illustrationen | Carousel (7), Einzelbilder | Höhenlinien, Illustration, Ablauf- und Kostengrafik | Ein Obstkorb ist nett. Firmengesundheit braucht einen Termin.
