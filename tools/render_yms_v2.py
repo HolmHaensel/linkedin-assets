@@ -41,13 +41,30 @@ def slide(s, i, n, circles):
     elif s["type"] == "fb":
         rows = "".join(f'<div style="padding:38px 0;border-top:3px solid {K}"><div class="k" style="color:{R};margin-bottom:12px">{e(r["stage"])}</div><div style="font-size:44px;font-weight:700;line-height:1.22;margin-bottom:10px">{e(r["benefit"])}</div><div style="font-size:36px;line-height:1.28;color:{M}">{e(r["feature"])}</div></div>' for r in s["rows"])
         body += f'<div class="a" style="top:{top}px;width:904px"><div class="d" style="font-size:{s.get("size",68)}px;margin-bottom:44px">{rich(s["title"])}</div>{rows}</div>'
+    elif s["type"] == "timeline":
+        def step(mark, head, sub):
+            return f'<div style="display:flex;gap:36px;align-items:flex-start;padding:26px 0;border-top:3px solid {K}">{mark}<div><div style="font-size:42px;font-weight:700;line-height:1.2;margin-bottom:6px">{e(head)}</div><div style="font-size:36px;line-height:1.28;color:{M}">{e(sub)}</div></div></div>'
+        ring = f'<div style="flex:none;width:56px;height:56px;border-radius:50%;border:10px solid {R}"></div>'
+        rows = ""
+        for r in s["steps"]:
+            if r.get("dots"):
+                dots = "".join(f'<div style="width:82px;height:82px;border-radius:50%;background:{R};color:{W};display:flex;align-items:center;justify-content:center;font-family:Raleway;font-weight:900;font-size:32px;font-feature-settings:\'lnum\' 1">{k+1}</div>' for k in range(r["dots"]))
+                rows += f'<div style="padding:26px 0;border-top:3px solid {K}"><div style="display:flex;justify-content:space-between;margin-bottom:22px">{dots}</div><div style="font-size:42px;font-weight:700;line-height:1.2;margin-bottom:6px">{e(r["head"])}</div><div style="font-size:36px;line-height:1.28;color:{M}">{e(r["sub"])}</div></div>'
+            else:
+                rows += step(ring, r["head"], r["sub"])
+        body += f'<div class="a" style="top:{top}px;width:904px"><div class="d" style="font-size:{s.get("size",76)}px;margin-bottom:36px">{rich(s["title"])}</div>{rows}</div>'
+    elif s["type"] == "grid":
+        c = "".join(f'<div style="width:58px;height:58px;border-radius:50%;background:{R}"></div>' for _ in range(s["cols"] * s["rows"]))
+        grid = f'<div style="display:grid;grid-template-columns:repeat({s["cols"]},58px);gap:14px">{c}</div>'
+        side = f'<div style="width:300px"><div class="d" style="font-size:96px;color:{R}">{e(s["big"])}</div><div class="b" style="font-size:38px;margin-top:10px">{e(s["bigsub"])}</div></div>'
+        body += f'<div class="a" style="top:{top}px;width:904px"><div class="d" style="font-size:{s.get("size",76)}px;margin-bottom:40px">{rich(s["title"])}</div><div class="k" style="color:{M};margin-bottom:18px">{e(s["xlabel"])}</div><div style="display:flex;justify-content:space-between;align-items:flex-end">{grid}{side}</div><div class="k" style="color:{M};margin-top:18px">{e(s["ylabel"])}</div><div class="b" style="margin-top:30px;font-size:40px">{rich(s["sub"])}</div></div>'
     elif s["type"] == "close":
         cy, r = s.get("cy", 640), s.get("r", 300)
         body += f'<div class="a" style="top:96px;width:904px"><div class="d" style="font-size:68px">{rich(s["title"])}</div></div>'
-        body += f'<div class="c" style="left:{540-r}px;top:{cy-r}px;width:{2*r}px;height:{2*r}px;background:{R};display:flex;align-items:center;justify-content:center"><span class="d" style="font-size:{s.get("wordsize",150)}px;color:{W}">{e(s["word"])}</span></div>'
+        body += f'<div class="c" style="left:{540-r}px;top:{cy-r}px;width:{2*r}px;height:{2*r}px;background:{R};display:flex;align-items:center;justify-content:center"><span class="d" style="font-size:{s.get("wordsize",150)}px;color:{W};text-align:center">{e(s["word"])}</span></div>'
         body += f'<div class="a b" style="top:{cy+r+44}px;width:904px;font-size:42px">{rich(s["sub"])}</div>'
     arrow = "→" if i < n - 1 else ""
-    foot = f'<div class="f"><span>@yoga.macht.stark</span><span style="font-size:44px;color:{hi}">{arrow}</span></div>'
+    foot = f'<div class="f"><span><span style="font-family:Raleway;font-weight:900;font-size:30px;letter-spacing:.02em">Holm Hänsel</span><span style="font-weight:400;opacity:.8"> · Yoga Macht Stark</span></span><span style="font-size:44px;color:{hi}">{arrow}</span></div>'
     return f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}</style></head><body><div class="s" style="background:{bg};color:{fg};--hi:{hi}">{deco}{body}{foot}</div></body></html>'
 
 spec = json.loads(pathlib.Path(sys.argv[1]).read_text())

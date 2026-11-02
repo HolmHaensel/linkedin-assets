@@ -1,0 +1,107 @@
+{
+ "style": "der-kreis",
+ "circles": [
+  {
+   "x": 1080,
+   "y": 190,
+   "r": 280
+  }
+ ],
+ "slides": [
+  {
+   "type": "statement",
+   "bg": "light",
+   "top": 490,
+   "size": 92,
+   "title": "Ein Obstkorb ist nett. **Bewegung braucht einen Termin.**",
+   "sub": "Wie ich mit Teams arbeite, und was das kostet."
+  },
+  {
+   "type": "statement",
+   "bg": "dark",
+   "top": 540,
+   "size": 100,
+   "title": "Ich bin **Holm.**",
+   "sub": "Ich unterrichte Ashtanga Yoga in Leipzig, habe eine sportwissenschaftliche B-Lizenz und arbeite auch selbst als UX-Stratege am Bildschirm. Ich kenne beide Seiten."
+  },
+  {
+   "type": "statement",
+   "bg": "white",
+   "top": 420,
+   "size": 84,
+   "title": "Am Willen fehlt es selten.",
+   "sub": "Aus meiner Sicht fehlt eher ein fester Platz im Kalender und jemand, der sich kümmert. Diesen Teil übernehme ich gern."
+  },
+  {
+   "type": "timeline",
+   "bg": "white",
+   "top": 96,
+   "title": "So lernen wir **uns kennen.**",
+   "steps": [
+    {
+     "head": "Wir sprechen 30 Minuten",
+     "sub": "Kostenlos und ohne Verkaufsgespräch."
+    },
+    {
+     "head": "Ich organisiere den Rest",
+     "sub": "Start innerhalb von 2 Wochen."
+    },
+    {
+     "dots": 8,
+     "head": "8 Sessions in 8 Wochen",
+     "sub": "Je 60 Minuten, online oder vor Ort in Leipzig."
+    },
+    {
+     "head": "Danach entscheidet ihr",
+     "sub": "Keine Verlängerung, kein Abo."
+    }
+   ]
+  },
+  {
+   "type": "grid",
+   "bg": "light",
+   "top": 96,
+   "title": "Was kostet **das?**",
+   "cols": 8,
+   "rows": 8,
+   "xlabel": "8 Sessions",
+   "ylabel": "Bis zu 8 Personen",
+   "big": "15 €",
+   "bigsub": "pro Person und Stunde",
+   "sub": "960 € netto für das Paket, bei voller Gruppe. Mir ist wichtig, dass du das vorher weißt."
+  },
+  {
+   "type": "fb",
+   "bg": "white",
+   "top": 96,
+   "title": "Was ihr **davon habt.**",
+   "rows": [
+    {
+     "stage": "Aufwand",
+     "benefit": "Du hast wenig Arbeit damit.",
+     "feature": "Termine und Ablauf liegen bei mir."
+    },
+    {
+     "stage": "Team",
+     "benefit": "Niemand muss schon Yoga können.",
+     "feature": "Ich hole alle dort ab, wo sie stehen. Keine Erfahrung nötig."
+    },
+    {
+     "stage": "Alltag",
+     "benefit": "Es passt zu eurem Arbeitstag.",
+     "feature": "Online oder vor Ort, abgestimmt auf dein Team."
+    }
+   ]
+  },
+  {
+   "type": "close",
+   "bg": "light",
+   "title": "Wollen wir einfach mal sprechen?",
+   "word": "30 Min.",
+   "wordsize": 110,
+   "cy": 640,
+   "r": 270,
+   "sub": "Ich freue mich, dein Team kennenzulernen. Auch die Förderung schauen wir uns gemeinsam an."
+  }
+ ]
+}

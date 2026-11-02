@@ -19,3 +19,9 @@ Bogen jedes Carousels (H-S-T-S-S auf dem Loop Erkennen, Wandeln, Wirken):
 - Raleway 900 in Großbuchstaben, sehr groß, linksbündig. Lato für Text, mindestens 38 px. Ein Highlight pro Headline.
 - Kein Kasten, keine Schatten, keine Verläufe. Trennlinien statt Karten.
 - Fotos: nur echte Aufnahmen von Holm, Kreis als Maske. Keine Stock-Bilder.
+
+## Ausrichtung (Holm, 02.11.2026)
+- Schwerpunkt B2B: Business Yoga für HR, BGM und Geschäftsführung.
+- Ton: persönlich, kompetent, freundlich, nicht reißerisch. Ich-Form, Holm ist auf jeder Slide als Absender genannt, früh im Carousel stellt er sich vor.
+- Grafiken, wenn sie Inhalt klarer machen: Abläufe (`timeline`), Zahlen und Kosten (`grid`). Immer aus Kreisen aufgebaut.
+- Preise und Rechenwege offen zeigen. Förderung nur mit Bedingungen nennen, Heilversprechen nie.
