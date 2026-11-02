@@ -39,7 +39,7 @@ def slide(s, i, n, circles):
         lines = "".join(f'<div class="d" style="font-size:{s.get("size",72)}px;margin-bottom:14px">{rich(x)}</div>' for x in s["lines"])
         body += f'<div class="a" style="top:{top}px;width:904px">{lines}<div class="b" style="margin-top:44px">{rich(s["sub"])}</div></div>'
     elif s["type"] == "fb":
-        rows = "".join(f'<div style="padding:38px 0;border-top:3px solid {K}"><div class="k" style="color:{R};margin-bottom:12px">{e(r["stage"])}</div><div style="font-size:38px;font-weight:700;line-height:1.25;margin-bottom:8px">{e(r["feature"])}</div><div style="font-size:38px;line-height:1.25;color:{M}">{e(r["benefit"])}</div></div>' for r in s["rows"])
+        rows = "".join(f'<div style="padding:38px 0;border-top:3px solid {K}"><div class="k" style="color:{R};margin-bottom:12px">{e(r["stage"])}</div><div style="font-size:44px;font-weight:700;line-height:1.22;margin-bottom:10px">{e(r["benefit"])}</div><div style="font-size:36px;line-height:1.28;color:{M}">{e(r["feature"])}</div></div>' for r in s["rows"])
         body += f'<div class="a" style="top:{top}px;width:904px"><div class="d" style="font-size:{s.get("size",68)}px;margin-bottom:44px">{rich(s["title"])}</div>{rows}</div>'
     elif s["type"] == "close":
         cy, r = s.get("cy", 640), s.get("r", 300)

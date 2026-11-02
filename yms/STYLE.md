@@ -9,7 +9,7 @@ Bogen jedes Carousels (H-S-T-S-S auf dem Loop Erkennen, Wandeln, Wirken):
 2. Stakes: konkrete Alltagsszene
 3. Turn: Satz, der das alte Muster kippt
 4. Scene: kurze Sinnes-Sätze
-5. Features und Benefits: je Zeile was du bekommst, darunter was es dir bringt
+5. Benefits und Features: Benefit zuerst und fett, Feature darunter als Beleg. Jedes Feature mit "Na und?" befragen, bis ein spürbares Ergebnis steht. Kein Fachjargon, nur Belegbares.
 6. Shatter: neue Definition von Stärke
 7. Close: echte Frage plus Kreis mit Keyword
 

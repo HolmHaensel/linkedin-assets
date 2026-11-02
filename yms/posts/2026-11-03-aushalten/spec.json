@@ -69,22 +69,22 @@
    "type": "fb",
    "bg": "white",
    "top": 210,
-   "title": "Kein Gefühl. **Ein System.**",
+   "title": "Was du **davon hast.**",
    "rows": [
     {
      "stage": "Erkennen",
-     "feature": "Funktionstests: Griffkraft, Einbeinstand, Aufstehtest.",
-     "benefit": "Du weißt, wo du stehst. Nicht nur, wie du dich fühlst."
+     "benefit": "Du hörst auf zu raten.",
+     "feature": "Griffkraft, Einbeinstand, Aufstehtest zeigen, wo du stehst."
     },
     {
      "stage": "Wandeln",
-     "feature": "1:1 Training: Kraft, Balance, Regeneration.",
-     "benefit": "Du trainierst, was dein Alltag wirklich verlangt."
+     "benefit": "Du trainierst nur, was dir fehlt.",
+     "feature": "1:1 Training für Kraft, Balance und Regeneration."
     },
     {
      "stage": "Wirken",
-     "feature": "Re-Test statt Bauchgefühl.",
-     "benefit": "Du siehst Fortschritt, statt auf ihn zu hoffen."
+     "benefit": "Du musst nicht mehr hoffen. Du siehst es.",
+     "feature": "Dieselben Tests nochmal. Der Vergleich zeigt, was sich bewegt hat."
     }
    ]
   },
