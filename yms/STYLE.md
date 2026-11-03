@@ -22,6 +22,6 @@ Gilt ab 02.11.2026 und ersetzt "Der Kreis". Vorbild ist Holms GoHighLevel-Landin
 - Preise und Rechenwege offen zeigen. Förderung nur mit Bedingungen nennen, Heilversprechen nie.
 
 ## Google Business und Pinterest
-Beide bekommen immer eine eigene Version mit genau einem Bild, nie das Carousel. Eigener Metricool-Entwurf je Netzwerk.
+Beide bekommen immer eine eigene Version und einen eigenen Metricool-Entwurf, nie das 4:5-Carousel. Google Business: ein Bild. Pinterest: Einzel-Pin oder Carousel-Pin mit 2 bis 5 Bildern im selben Format (2:3 oder 1:1), kein Video, Business-Konto nötig. Carousel-Pin in Metricool wird noch getestet.
 - Google Business: 1200 x 900 (4:3), Typ `publication`, Text bis 1500 Zeichen, lokal formuliert, ohne Hashtags, voller Link.
 - Pinterest: 1000 x 1500 (2:3), Titel bis 100 Zeichen, Beschreibung bis 500 Zeichen, Suchbegriffe im Titel, alles Wichtige auf einem Bild, pinLink auf die passende Seite. Board 684547280800331892 (aus bestehenden Posts).
