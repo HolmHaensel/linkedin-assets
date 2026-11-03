@@ -15,3 +15,4 @@ Datum | Thema | Format | Hook
 2026-11-03 | Case 04: Self-Serve-Konfigurator (lpa, komplexe B2B-Finanzprodukte fuer Privatkunden, compliant und skalierbar) | Carousel | split, text, list, quote, cta | Complex is not the same as exclusive.
 2026-11-04 | Build, don't just brief: KI-Verhalten sieht man erst im Build (HedgePilot, AI-PM-Programm 2026) | Einzelbild | split | A described AI feature is still a guess.
 2026-11-05 | Framework: Discovery vor Delivery, drei Fragen vor dem Bauen (Car Selector -40%, Mail-Forwarding 5 Laender) | Carousel | hook, versus, list, html, cta | Delivery is an expensive way to learn.
+2026-11-06 | Green Tech: dynamischer Stromtarif als Finanzprodukt, Transfer aus HedgePilot und Konfigurator (Risk, Reason, Bad day) | Einzelbild | html (Headline + drei Fragekarten) | A dynamic electricity tariff is a financial product.
