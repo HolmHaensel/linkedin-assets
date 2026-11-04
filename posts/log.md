@@ -16,3 +16,4 @@ Datum | Thema | Format | Hook
 2026-11-04 | Build, don't just brief: KI-Verhalten sieht man erst im Build (HedgePilot, AI-PM-Programm 2026) | Einzelbild | split | A described AI feature is still a guess.
 2026-11-05 | Framework: Discovery vor Delivery, drei Fragen vor dem Bauen (Car Selector -40%, Mail-Forwarding 5 Laender) | Carousel | hook, versus, list, html, cta | Delivery is an expensive way to learn.
 2026-11-06 | Green Tech: dynamischer Stromtarif als Finanzprodukt, Transfer aus HedgePilot und Konfigurator (Risk, Reason, Bad day) | Einzelbild | html (Headline + drei Fragekarten) | A dynamic electricity tariff is a financial product.
+2026-11-07 | Lektion aus Vortrag: KI im globalen UX-Design (WUD Leipzig 2023), Uebersetzung ersetzt keine Marktentscheidung (Mail-Forwarding 5 Laender, 100+ Maerkte) | Einzelbild | quote | AI can translate your product into any language by tomorrow.
