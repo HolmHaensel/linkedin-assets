@@ -11,3 +11,4 @@ Datum | Cluster | Thema | Format | Layout-Typen | Hook
 2026-11-03 | B2B/BGM | Yoga fürs Team, Hook geändert | Carousel (7) | wie probestunde-v2 | Ein Obstkorb ist nett. Firmengesundheit braucht einen Termin.
 2026-11-03 | B2B/BGM | Yoga fürs Team, Claude-Design-Version mit Illustrationen | Carousel (7), Einzelbilder | Höhenlinien, Illustration, Ablauf- und Kostengrafik | Ein Obstkorb ist nett. Firmengesundheit braucht einen Termin.
 2026-11-10 | B2B/BGM | Yoga fürs Team, Test Carousel-Pin | Pinterest Carousel (5, 2:3) | Hook, Holm, Ablauf, Kosten, Probestunde | Ein Obstkorb ist nett. Firmengesundheit braucht einen Termin.
+2026-11-05 | Tough Professionals | Schlusspunkt nach der Schicht | Einzelbild | split | Schicht vorbei. Schultern noch im Dienst.
