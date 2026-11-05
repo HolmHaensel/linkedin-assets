@@ -1,0 +1,10 @@
+{
+"label": "Product strategy · Sunday question",
+"slides": [
+{
+"type": "html",
+"bg": "black",
+"html": "<div class=\"lab\" style=\"color:var(--y);margin-bottom:28px\">The test I trust most</div><div class=\"big\" style=\"font-size:420px;color:var(--y);margin-bottom:56px\">No.</div><div class=\"h2\" style=\"margin-bottom:40px\">When did your strategy last say it?</div><div class=\"p\">If it approves every request, it is a wish list.</div>"
+}
+]
+}
