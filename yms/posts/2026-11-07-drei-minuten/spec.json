@@ -1,0 +1,9 @@
+{"label":"Zwischen zwei Calls","slides":[
+{"type":"hook","title":"Drei Minuten bis zum nächsten Call.","sub":"Mails checken? Oder das hier. Dein Stuhl reicht."},
+{"type":"text","bg":"white","paras":["Der Call ist zu. Dein Kopf sitzt noch drin, die Schultern auch.","Für die nächsten drei Minuten brauchst du keine Matte und keine Umkleide."],"kicker":"Das reicht","title":"Stuhl. Drei Minuten. Fertig."},
+{"type":"split","title":"01 Blick raus.","sub":"Weg vom Bildschirm. Schau 30 Sekunden aus dem Fenster, so weit es geht."},
+{"type":"html","bg":"teal","html":"<div style=\"display:flex;flex-direction:column;gap:44px\"><div class=\"h1\" style=\"font-size:200px;color:var(--w)\">02</div><div class=\"h1\">Seite lang.</div><span class=\"acc\"></span><div class=\"p\">Eine Hand an die Sitzkante, den anderen Arm über den Kopf. Drei Atemzüge, nur so weit es angenehm ist. Dann die andere Seite.</div></div>"},
+{"type":"html","bg":"light","html":"<div style=\"display:flex;flex-direction:column;gap:44px\"><div class=\"h1\" style=\"font-size:200px;color:var(--t)\">03</div><div class=\"h1\">Länger aus.</div><span class=\"acc\"></span><div class=\"p\">Vier Atemzüge. Durch die Nase ein, langsam wieder aus. Die Ausatmung darf länger dauern als die Einatmung.</div></div>"},
+{"type":"list","title":"Zum Speichern","items":["Blick raus: 30 Sekunden, so weit es geht.","Seite lang: je drei Atemzüge, links und rechts.","Länger aus: vier Atemzüge, ganz ohne Eile."],"punch":"Nächster Call kann kommen."},
+{"type":"cta","bg":"dark","kicker":"Speichern & teilen","title":"Schick das der Person, die von Call zu Call rennt.","sub":"Und probier es selbst: beim nächsten Call, nicht nächste Woche."}
+]}
