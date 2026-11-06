@@ -25,3 +25,6 @@ Gilt ab 02.11.2026 und ersetzt "Der Kreis". Vorbild ist Holms GoHighLevel-Landin
 Beide bekommen immer eine eigene Version und einen eigenen Metricool-Entwurf, nie das 4:5-Carousel. Google Business: ein Bild. Pinterest: Einzel-Pin oder Carousel-Pin mit 2 bis 5 Bildern im selben Format (2:3 oder 1:1), kein Video, Business-Konto nötig. Carousel-Pin in Metricool wird noch getestet.
 - Google Business: 1200 x 900 (4:3), Typ `publication`, Text bis 1500 Zeichen, lokal formuliert, ohne Hashtags, voller Link.
 - Pinterest: 1000 x 1500 (2:3), Titel bis 100 Zeichen, Beschreibung bis 500 Zeichen, Suchbegriffe im Titel, alles Wichtige auf einem Bild, pinLink auf die passende Seite. Board 684547280800331892 (aus bestehenden Posts).
+
+## Grafiken zum Verständnis (Pflicht, gilt ab 06.11.2026)
+Jeder Post entsteht in Claude Design und bekommt Grafiken, die den Inhalt erklären. Übungen werden immer gezeigt, nicht nur beschrieben: Leser müssen ohne Vorwissen sehen, wie die Übung aussieht (Figur auf dem Stuhl, Schritte nummeriert, Richtung als Pfeil, Atem als Kurve). Vorlage: `yms/posts/2026-11-07-drei-minuten-design/`.

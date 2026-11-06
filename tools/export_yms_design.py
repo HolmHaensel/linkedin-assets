@@ -13,7 +13,8 @@ with sync_playwright() as p:
     for f in sys.argv[4:]:
         t = (proj / f"{f}.dc.html").read_text()
         body = re.search(r"<x-dc>(.*)</x-dc>", t, re.S).group(1)
-        body = re.sub(r"<helmet>.*?</helmet>", "", body, flags=re.S).replace("/_blob/72d72dfde7b015eec365af6df8d6fa01", photo)
+        body = re.sub(r"<helmet>.*?</helmet>", "", body, flags=re.S)
+        body = re.sub(r"/_blob/[0-9a-f]+", photo, body)
         w, h = map(int, re.search(r'"width":(\d+),"height":(\d+)', t).groups())
         pg = b.new_page(viewport={"width": w, "height": h})
         pg.set_content(f'<!doctype html><html lang="de"><head><meta charset="utf-8"><style>{faces}*{{box-sizing:content-box}}body{{margin:0}}</style></head><body>{body}</body></html>')
