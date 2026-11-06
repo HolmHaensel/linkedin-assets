@@ -18,3 +18,4 @@ Datum | Thema | Format | Hook
 2026-11-06 | Green Tech: dynamischer Stromtarif als Finanzprodukt, Transfer aus HedgePilot und Konfigurator (Risk, Reason, Bad day) | Einzelbild | html (Headline + drei Fragekarten) | A dynamic electricity tariff is a financial product.
 2026-11-07 | Lektion aus Vortrag: KI im globalen UX-Design (WUD Leipzig 2023), Uebersetzung ersetzt keine Marktentscheidung (Mail-Forwarding 5 Laender, 100+ Maerkte) | Einzelbild | quote | AI can translate your product into any language by tomorrow.
 2026-11-08 | Reflexion Produktstrategie: Kann die Strategie Nein sagen (Fuehren ohne Linienverantwortung, Value-Proposition-Framework) | Einzelbild | html (grosses No + Frage) | When did your product strategy last say no?
+2026-11-09 | Trust by design: Disclaimer ersetzt keine Erklaerung (neue EU-Verbraucherkreditregeln als Aufhaenger, Self-Serve-Konfigurator lpa, Transfer Health/Energie) | Einzelbild | hook | A disclaimer is not an explanation.
