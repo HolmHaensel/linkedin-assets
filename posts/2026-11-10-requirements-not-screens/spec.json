@@ -1,0 +1,7 @@
+{"label":"Case 05 · Robotics think tank","slides":[
+{"type":"split","title":"The design deliverable was not a screen.","sub":"Case 05: A requirements catalogue for human-robot collaboration, Fraunhofer IWU robotics think tank 2025."},
+{"type":"text","bg":"white","paras":["Design consulting on robotics solutions for mid-sized manufacturers and construction.","The people working next to a robot are rarely the people who buy it. Both have to trust it."],"kicker":"The situation","title":"Who is the robot actually for?"},
+{"type":"versus","bg":"yellow","title":"Mockup or requirement?","before":"A concept screen: easy to like, hard to test against.","after":"A requirement: anyone in the room can check if it holds.","punch":"Checkable beats pretty."},
+{"type":"list","bg":"white","title":"Same move elsewhere","items":["Banking: what an AI decision must explain before it goes live.","Health: where a professional must be able to override the system.","Energy: what a customer must understand before automation acts."],"punch":"Write the collaboration down first."},
+{"type":"cta","kicker":"THE LESSON","title":"Design the collaboration before the interface.","sub":"In products that cannot afford to fail, a clear requirement outlives every mockup.","sign":"I design products that cannot afford to fail.","cue":"Follow for more"}
+]}
