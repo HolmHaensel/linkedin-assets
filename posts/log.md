@@ -20,3 +20,4 @@ Datum | Thema | Format | Hook
 2026-11-08 | Reflexion Produktstrategie: Kann die Strategie Nein sagen (Fuehren ohne Linienverantwortung, Value-Proposition-Framework) | Einzelbild | html (grosses No + Frage) | When did your product strategy last say no?
 2026-11-09 | Trust by design: Disclaimer ersetzt keine Erklaerung (neue EU-Verbraucherkreditregeln als Aufhaenger, Self-Serve-Konfigurator lpa, Transfer Health/Energie) | Einzelbild | hook | A disclaimer is not an explanation.
 2026-11-10 | Case 05: Fraunhofer IWU Robotik-Think-Tank, Anforderungskatalog statt Screens (Transfer Banking/Health/Energie) | Carousel | split, text, versus, list, cta | The design deliverable was not a screen.
+2026-11-11 | Capstone W11: Rollout-Strategie, geschlossene erste Gruppe statt Big Bang, Gate vor Launch festlegen (Transfer Banking/Health/Energie) | Einzelbild | html (Headline + drei Stufen Closed/Gate/Open) | A big bang launch tests everything at once.
