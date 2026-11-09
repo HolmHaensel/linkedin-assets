@@ -1,0 +1,7 @@
+{"label":"Framework · AI in the workflow","slides":[
+{"type":"split","title":"Automate the step, not the judgment.","sub":"Three questions I ask before AI goes into a product workflow."},
+{"type":"text","bg":"white","paras":["A premium sportscar brand's online shop needed every product image to work on web and mobile.","We changed the input: one shoot per product in a flexible frame. AI crops the images and delivers them to the shop backend."],"kicker":"The question","title":"Which step repeats for every product?"},
+{"type":"list","bg":"white","title":"Three questions first","items":["Which step repeats for every single item?","Can a person check the result at a glance?","Who decides when the output is wrong?"],"punch":"Automate the first. Keep the last human."},
+{"type":"versus","bg":"black","title":"Fix the output or the input?","left":"More effort","right":"Better input","before":"Every new format means more manual work at the end.","after":"Design the input once, so every format gets what it needs.","kicker":"The key move","punch":"Change the input, not the output."},
+{"type":"stat","number":"-50%","caption":"Image workflow cost, at least","lesson":"Automate the repeated step. Keep the judgment with people.","sign":"I design products that cannot afford to fail.","cue":"Follow for more"}
+]}
