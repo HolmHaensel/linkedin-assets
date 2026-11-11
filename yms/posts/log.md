@@ -15,3 +15,4 @@ Datum | Cluster | Thema | Format | Layout-Typen | Hook
 2026-11-07 | High Performer | Mini-Routine zwischen zwei Calls | Carousel (7) | hook, text, split, html, list, cta | Drei Minuten bis zum nächsten Call.
 2026-11-07 | High Performer | Mini-Routine zwischen zwei Calls, Claude-Design-Version mit Übungsgrafiken (ersetzt drei-minuten) | Carousel (7), Einzelbild Google Business | Höhenlinien, Figuren, Zeitleiste, Schritte, Atemkurve | Drei Minuten bis zum nächsten Call.
 2026-11-09 | B2B/BGM | Pausenkultur im Team (kein Metricool-Entwurf, alle Tage belegt) | Carousel (6) | hook, split, text, versus, list, cta | Alle da. Keiner macht Pause.
+2026-11-11 | Auszeit-Suchende | Draußen sein im November (kein Metricool-Entwurf, 11. bis 13.11. mit Instagram belegt) | Einzelbild | hook | Draußen dunkel. Drinnen Bildschirm.
