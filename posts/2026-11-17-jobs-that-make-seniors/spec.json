@@ -1,0 +1,40 @@
+{
+ "label": "THE EXPERIENCE GAP",
+ "slides": [
+  {
+   "type": "split",
+   "title": "AI didn't take the senior jobs.",
+   "sub": "It took the jobs that make seniors. Why that turns into an experience gap."
+  },
+  {
+   "type": "number",
+   "bg": "white",
+   "number": "-13%",
+   "caption": "jobs for 22-25s in AI-exposed roles",
+   "lesson": "Seniors in the same jobs held steady."
+  },
+  {
+   "type": "number",
+   "bg": "black",
+   "number": "-20%",
+   "caption": "doctors' detection rate after AI use",
+   "lesson": "Even experts lose skills they stop practising."
+  },
+  {
+   "type": "versus",
+   "bg": "white",
+   "title": "How expertise gets built",
+   "before": "AI answers first. The junior checks it and learns little.",
+   "after": "The junior tries first. AI checks it and explains why.",
+   "punch": "Try first, then let AI check."
+  },
+  {
+   "type": "cta",
+   "kicker": "THE LESSON",
+   "title": "No mentoring today, no judgment tomorrow.",
+   "sub": "In banking, health and energy, judgment comes from people who have seen things break.",
+   "sign": "I design products that cannot afford to fail.",
+   "cue": "Follow for more"
+  }
+ ]
+}
