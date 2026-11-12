@@ -1,0 +1,7 @@
+{"label":"DEMOCRATIZED CODING","slides":[
+{"type":"hook","bg":"yellow","title":"Pain picks better problems.","sub":"Why the democratization of coding matters, and where it stops."},
+{"type":"number","bg":"white","number":"8x","caption":"forecast sales of lead-user ideas at 3M","lesson":"People with the pain find better problems."},
+{"type":"versus","bg":"black","title":"What changes now","before":"The person with the pain writes a ticket and waits.","after":"The person with the pain builds the first version.","punch":"The gap between pain and product shrinks."},
+{"type":"list","bg":"white","title":"The catch","items":["Pain picks the problem. It does not secure the product.","AI code added security flaws in 45% of tests (Veracode).","In banking, health and energy, that decides trust."],"punch":"Judgment still decides."},
+{"type":"cta","kicker":"MY TAKE","title":"Let the people with the pain build the first version.","sub":"Then bring in the people who know what must never break.","sign":"I design products that cannot afford to fail.","cue":"Follow for more"}
+]}
