@@ -18,3 +18,4 @@ Datum | Cluster | Thema | Format | Layout-Typen | Hook
 2026-11-11 | Auszeit-Suchende | Draußen sein im November (kein Metricool-Entwurf, 11. bis 13.11. mit Instagram belegt) | Einzelbild | hook | Draußen dunkel. Drinnen Bildschirm.
 2026-11-17 | High Performer | Fokus vor Leistung | Carousel (6) | hook, split, text, versus, list, cta | Zehn Tabs offen. Null Fokus.
 2026-11-17 | High Performer | Fokus vor Leistung, Claude-Design-Version mit Grafiken (ersetzt fokus-vor-leistung) | Carousel (6), Einzelbild Google Business | Tabs-Fenster, Unterbrechungs-Reihe, Trichter, Balkenvergleich, Übungs-Icons, Notizzettel | Zehn Tabs offen. Null Fokus.
+2026-11-20 | Tough Professionals | Absetzen gehört zur Stärke | Einzelbild | quote | Stark bist du, wenn du weißt, wann du absetzt.
