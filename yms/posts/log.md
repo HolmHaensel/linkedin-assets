@@ -19,3 +19,4 @@ Datum | Cluster | Thema | Format | Layout-Typen | Hook
 2026-11-17 | High Performer | Fokus vor Leistung | Carousel (6) | hook, split, text, versus, list, cta | Zehn Tabs offen. Null Fokus.
 2026-11-17 | High Performer | Fokus vor Leistung, Claude-Design-Version mit Grafiken (ersetzt fokus-vor-leistung) | Carousel (6), Einzelbild Google Business | Tabs-Fenster, Unterbrechungs-Reihe, Trichter, Balkenvergleich, Übungs-Icons, Notizzettel | Zehn Tabs offen. Null Fokus.
 2026-11-20 | Tough Professionals | Absetzen gehört zur Stärke | Einzelbild | quote | Stark bist du, wenn du weißt, wann du absetzt.
+2026-11-21 | B2B/BGM | Ankommen im Team-Meeting, Mini-Routine am Tisch | Carousel (6) | split, text, list, quote, text, cta | Montag, 9 Uhr. Alle sitzen.
