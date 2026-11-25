@@ -21,3 +21,4 @@ Datum | Cluster | Thema | Format | Layout-Typen | Hook
 2026-11-20 | Tough Professionals | Absetzen gehört zur Stärke | Einzelbild | quote | Stark bist du, wenn du weißt, wann du absetzt.
 2026-11-21 | B2B/BGM | Ankommen im Team-Meeting, Mini-Routine am Tisch | Carousel (6) | split, text, list, quote, text, cta | Montag, 9 Uhr. Alle sitzen.
 2026-11-23 | High Performer | Durchhalten ist keine Strategie | Carousel (6) | hook, split, text, versus, list, cta | Durchhalten ist kein Plan.
+2026-11-25 | Auszeit-Suchende | Zehn Minuten draußen als fester Termin | Einzelbild | split | Alles hat einen Termin. Nur du nicht.
