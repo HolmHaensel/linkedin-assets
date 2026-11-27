@@ -1,0 +1,8 @@
+{"label":"VOR DEM DIENST","slides":[
+{"type":"split","title":"Motor aus. Dienst gleich an.","sub":"Bevor du reingehst: zwei Minuten neben dem Auto, die nur dir gehören."},
+{"type":"text","kicker":"Du kennst das","title":"Im Dienst, bevor er anfängt","paras":["Im Auto noch die Nachrichten vom Team. Im Kopf schon der erste Einsatz, die erste Baustelle.","Du steigst aus und rennst los. Keiner fragt, ob du schon da bist."],"bg":"white"},
+{"type":"list","title":"Zwei Minuten am Auto","items":["Füße hüftbreit. Gewicht vor und zurück, bis du mittig stehst.","Schultern langsam fünfmal nach hinten kreisen. Arme hängen lassen.","Durch die Nase ein. Lang durch den Mund aus. Dreimal."],"punch":"Dann gehst du rein.","bg":"light"},
+{"type":"versus","title":"Gleicher Weg. Anderer Start.","before":"Aussteigen, Tür zu, losrennen. Der Kopf ist längst drin.","after":"Aussteigen, stehen, ausatmen. Dann gehst du rein.","punch":"Zwei Minuten. Mehr nicht.","left":"Sonst","right":"Heute"},
+{"type":"text","kicker":"Was wäre, wenn","title":"dein Dienst erst beginnt, wenn du da bist?","paras":["Kein Umziehen, keine Matte, kein Extra-Termin. Nur Parkplatz, Boden und drei Atemzüge.","Probier es morgen vor der Schicht. Und schau, wie die erste Stunde läuft."],"bg":"teal"},
+{"type":"cta","kicker":"Speichern & teilen","title":"Schick das an die Kollegin, die immer als Erste losrennt.","sub":"Und erzähl mir: Wie startest du gerade in deinen Dienst?"}
+]}
