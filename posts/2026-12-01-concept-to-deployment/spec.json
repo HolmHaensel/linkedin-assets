@@ -1,0 +1,7 @@
+{"label":"CASE 07 · AI IN BANKING","slides":[
+{"type":"split","title":"A concept convinces a room.","sub":"A product has to convince a user, an auditor and a risk team. Case 07: an AI hedging product."},
+{"type":"html","html":"<div class='lab' style='margin-bottom:28px'>The case</div><div class='h2' style='margin-bottom:56px'>From concept to deployment.</div><div style='display:flex;flex-direction:column;gap:24px'><div class='box' style='border:3px solid var(--k)'><div class='lab' style='margin-bottom:16px'>Context</div><div class='p'>UX and product strategy at lpa for digital product advisory in banking.</div></div><div class='box' style='background:var(--k);color:var(--w)'><div class='lab' style='margin-bottom:16px;color:var(--y)'>My part</div><div class='p'>HedgePilot, an AI-supported hedging product. I stayed with it from concept to deployment.</div></div></div>"},
+{"type":"list","title":"What deployment asks","items":["Can the user explain the decision the AI supported?","Does every step pass compliance without a workaround?","Who owns the outcome when the model is wrong?"],"punch":"A concept never has to answer these."},
+{"type":"quote","bg":"yellow","text":"If the concept has no answer, deployment will find one. Late.","by":"Holm Hänsel"},
+{"type":"cta","kicker":"THE LESSON","title":"Ask the deployment questions in the first concept workshop.","sub":"In banking, health and energy, strategy is tested where the product meets the people who carry the risk.","sign":"I design products that cannot afford to fail.","cue":"Follow for more"}
+]}
